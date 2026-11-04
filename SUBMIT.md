@@ -4,8 +4,11 @@ Reference: <https://squeekchain.com/genesis/code> (read 2026-11-04).
 
 ## Before submitting
 
-- [ ] Game live at a public URL on Hùng's own domain (DNS verify needs the domain)
-- [ ] Public GitHub repository with this code + README
+- [x] Game live at a public URL: <https://kuhugn.github.io/wheel-racer/>
+      (GitHub Pages, enabled 2026-11-04 — the final DNS verify still needs
+      Hùng's own custom domain; github.io cannot take the DNS record)
+- [x] Public GitHub repository with this code + README:
+      <https://github.com/kuhugn/wheel-racer>
 - [ ] Genesis profile ready: wallet verified (a normal wallet, not a
       smart-contract wallet) + X account linked
 

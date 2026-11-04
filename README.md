@@ -2,6 +2,8 @@
 
 A pixel kart race powered by the **real** Squeekchain hamster wheel.
 
+**▶ Race it live: <https://kuhugn.github.io/wheel-racer/>**
+
 > Your engine is Squeektoshi. When he runs, you fly. When he naps, you pedal.
 > Your rival is the ghost of the last settled round — a recording that never sleeps.
 
